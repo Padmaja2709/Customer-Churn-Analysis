@@ -1,9 +1,7 @@
 # Customer-Churn-Analysis
-1. Project Title/ Headline
-Telecom Customer Churn Analysis Dashboard
+**TELECOM CUSTOMER CHURN ANALYSIS**
 
-2. Short Description/Purpose
-OVERVIEW OFCHURN AND WHY IT MATTERS
+Short Description/Purpose
   Customer churn refers to the rate at which customers stop using a company’s products or services. In industries like telecom, where competition is high and acquisition costs are steep, retaining existing customers is often more cost-effective than acquiring new ones. Understanding churn patterns helps businesses:
 💰 Reduce revenue loss from departing customers
 🎯 Target at-risk customers with retention strategies
@@ -18,6 +16,7 @@ This analysis aims to:
 -- Provide actionable recommendations to minimize future churn
 
 3. Tech Stack
+Used Googlecolab for customer churn analysis.
   - Correlation Heatmaps to show relationships among features.
   - Boxplots to analyze distributions based on churn status.
   - Bar charts for service subscriptions vs. churn rates.
