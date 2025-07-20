@@ -2,6 +2,8 @@
 **TELECOM CUSTOMER CHURN ANALYSIS**
 
   Customer churn refers to the rate at which customers stop using a company’s products or services. In industries like telecom, where competition is high and acquisition costs are steep, retaining existing customers is often more cost-effective than acquiring new ones. Understanding churn patterns helps businesses:
+
+
 💰 Reduce revenue loss from departing customers
 🎯 Target at-risk customers with retention strategies
 📈 Improve service offerings and customer satisfaction
