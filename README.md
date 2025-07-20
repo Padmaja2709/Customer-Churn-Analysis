@@ -1,7 +1,8 @@
 # Customer-Churn-Analysis
 **TELECOM CUSTOMER CHURN ANALYSIS**
 
-  Purpiose
+  Purpose
+
   Customer churn refers to the rate at which customers stop using a company’s products or services. In industries like telecom, where competition is high and acquisition costs are steep, retaining existing customers is often more cost-effective than acquiring new ones. Understanding churn patterns helps businesses:
 
 
