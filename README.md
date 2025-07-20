@@ -15,19 +15,24 @@ Jupyter Notebook – Development environment
 
 **📊DATA SOURCE**
 Telco Customer Churn Dataset from Kaggle
-Contains customer information such as demographics, services subscribed, account information, and churn status.
+It contains information about a telecom company's customers, including demographics, account details, and usage metrics.
+Source: Kaggle – Telco Customer Churn
+Rows: ~7,043 records
+Columns: 21 features + 1 target (Churn)
 
-✨ FEATURES / HIGHLIGHTS
+**✨ FEATURES / HIGHLIGHTS**
 Performed data cleaning and feature engineering (e.g., tenure grouping, total charges formatting).
-
 Conducted in-depth exploratory data analysis with visual insights.
-
 Built classification models to predict customer churn: Logistic Regression, Random Forest, etc.
-
 Evaluated models using metrics: Accuracy, ROC AUC, Confusion Matrix, Classification Report.
-
 Visualized feature importance and model performance.
-
 Made business-focused recommendations based on churn patterns.
 
-📌 BUSINESS IMPACT & INSIGHTS
+**📌 BUSINESS IMPACT & INSIGHTS**
+Telecom companies face significant revenue loss due to customer churn. Understanding the underlying reasons behind customer attrition can enable proactive retention strategies. The goal of this project is to predict which customers are likely to churn and uncover patterns that contribute to it.
+
+**📎 RECOMMENDATION**
+Make this actionable from a business POV:
+Promote yearly contracts to reduce monthly churn rate
+Provide early loyalty benefits for new customers
+Improve service quality for high-paying fiber users
