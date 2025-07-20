@@ -1,6 +1,7 @@
 # Customer-Churn-Analysis
 **TELECOM CUSTOMER CHURN ANALYSIS**
 
+  Purpiose
   Customer churn refers to the rate at which customers stop using a company’s products or services. In industries like telecom, where competition is high and acquisition costs are steep, retaining existing customers is often more cost-effective than acquiring new ones. Understanding churn patterns helps businesses:
 
 
@@ -26,7 +27,6 @@ Used Googlecolab for customer churn analysis.
   - Boxplots to analyze distributions based on churn status.
   - Bar charts for service subscriptions vs. churn rates.
   - Clustering outputs for customer segmentation.
-
   - Confusion matrix and performance reports (precision, recall, F1-score).
   - AUC scores to gauge model effectiveness.
   - Feature importance for understanding drivers of churn.
