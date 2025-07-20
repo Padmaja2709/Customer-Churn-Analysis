@@ -1,33 +1,33 @@
 # Customer-Churn-Analysis
-**TELECOM CUSTOMER CHURN ANALYSIS**
+📈 **Customer Churn Analysis**
 
-  Purpose
+**🎯PURPOSE**
+To analyze and predict customer churn behavior using exploratory data analysis and machine learning techniques. The objective is to help businesses retain customers by identifying key churn indicators and making data-driven recommendations.
 
-  Customer churn refers to the rate at which customers stop using a company’s products or services. In industries like telecom, where competition is high and acquisition costs are steep, retaining existing customers is often more cost-effective than acquiring new ones. Understanding churn patterns helps businesses:
+**⚙️TECH STACK**
+Programming Language: Python
+Libraries & Tools:
+Pandas, NumPy – Data manipulation
+Matplotlib, Seaborn, Plotly – Data visualization
+Scikit-learn – Machine learning modeling
+XGBoost / LightGBM (if used) – Advanced classification
+Jupyter Notebook – Development environment
 
+**📊DATA SOURCE**
+Telco Customer Churn Dataset from Kaggle
+Contains customer information such as demographics, services subscribed, account information, and churn status.
 
-💰 Reduce revenue loss from departing customers
-🎯 Target at-risk customers with retention strategies
-📈 Improve service offerings and customer satisfaction
-🧠 Make data-driven decisions for long-term growth
-🎯 Objective of the Analysis
-This analysis aims to:
--- Identify factors that influence customer churn within the telecom dataset
--- Discover key behavioral and demographic trends behind churn
--- Build predictive models to forecast churn risk
--- Segment customers into meaningful groups for targeted strategies
--- Provide actionable recommendations to minimize future churn
+✨ FEATURES / HIGHLIGHTS
+Performed data cleaning and feature engineering (e.g., tenure grouping, total charges formatting).
 
-The dataset used for this project comes from the Telco Customer Churn dataset available on Kaggle. It contains information about a telecom company's customers, including demographics, account details, and usage metrics.
-Source: Kaggle – Telco Customer Churn
-Rows: ~7,043 records
-Columns: 21 features + 1 target (Churn)
+Conducted in-depth exploratory data analysis with visual insights.
 
-Used Googlecolab for customer churn analysis.
-  - Correlation Heatmaps to show relationships among features.
-  - Boxplots to analyze distributions based on churn status.
-  - Bar charts for service subscriptions vs. churn rates.
-  - Clustering outputs for customer segmentation.
-  - Confusion matrix and performance reports (precision, recall, F1-score).
-  - AUC scores to gauge model effectiveness.
-  - Feature importance for understanding drivers of churn.
+Built classification models to predict customer churn: Logistic Regression, Random Forest, etc.
+
+Evaluated models using metrics: Accuracy, ROC AUC, Confusion Matrix, Classification Report.
+
+Visualized feature importance and model performance.
+
+Made business-focused recommendations based on churn patterns.
+
+📌 BUSINESS IMPACT & INSIGHTS
